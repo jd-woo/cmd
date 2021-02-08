@@ -1,0 +1,2 @@
+# cmd
+configuring command line
